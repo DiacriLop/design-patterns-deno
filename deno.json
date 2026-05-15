@@ -4,6 +4,9 @@
     "adapter": "deno run patterns/02-structural/adapter.ts",
     "flyweight": "deno run patterns/02-structural/flyweight.ts",
     "observer": "deno run patterns/03-behavioral/observer.ts",
+    "command": "deno run patterns/03-behavioral/command.ts",
+    "state": "deno run patterns/03-behavioral/state.ts",
+    "strategy": "deno run patterns/03-behavioral/strategy.ts",
 
     "fmt": "deno fmt",
     "lint": "deno lint"
