@@ -5,6 +5,7 @@
     "flyweight": "deno run patterns/02-structural/flyweight.ts",
     "observer": "deno run patterns/03-behavioral/observer.ts",
     "command": "deno run patterns/03-behavioral/command.ts",
+    "state": "deno run patterns/03-behavioral/state.ts",
 
     "fmt": "deno fmt",
     "lint": "deno lint"
