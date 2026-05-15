@@ -7,6 +7,10 @@
     "command": "deno run patterns/03-behavioral/command.ts",
     "state": "deno run patterns/03-behavioral/state.ts",
     "strategy": "deno run patterns/03-behavioral/strategy.ts",
+    "factory": "deno run patterns/01-creational/factory.ts",        
+    "singleton": "deno run patterns/01-creational/singleton.ts",
+    "facade": "deno run patterns/02-structural/facade.ts",
+
 
     "fmt": "deno fmt",
     "lint": "deno lint"
